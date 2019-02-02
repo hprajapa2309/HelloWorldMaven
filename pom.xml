@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///var/lib/jenkins_release</url>
+         <url>file:///var/lib/jenkins/jenkins_release</url>
        </repository>
    </distributionManagement>
 
